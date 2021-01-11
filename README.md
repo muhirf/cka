@@ -1,6 +1,9 @@
 # cka
 Learning about Kubernetes
+
+## Learn how to version control projects with git
 First attempt at learning Github
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
